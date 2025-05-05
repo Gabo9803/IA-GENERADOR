@@ -7,3 +7,4 @@ python-docx==0.8.11
 reportlab==3.6.4
 deep-translator==1.8.0
 
+
