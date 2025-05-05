@@ -1,0 +1,157 @@
+2025-05-05 12:01:48,090 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-05 12:01:48,090 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 12:01:48,090 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:01:49,531 - WARNING -  * Debugger is active!
+2025-05-05 12:01:49,535 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:01:52,254 - INFO - 127.0.0.1 - - [05/May/2025 12:01:52] "GET / HTTP/1.1" 200 -
+2025-05-05 12:01:52,306 - INFO - 127.0.0.1 - - [05/May/2025 12:01:52] "[33mGET /csrf_token HTTP/1.1[0m" 404 -
+2025-05-05 12:01:52,517 - INFO - 127.0.0.1 - - [05/May/2025 12:01:52] "GET /get_templates HTTP/1.1" 200 -
+2025-05-05 12:01:52,851 - INFO - 127.0.0.1 - - [05/May/2025 12:01:52] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:01:55,982 - ERROR - Error inesperado en /generate: cannot unpack non-iterable coroutine object
+2025-05-05 12:01:55,983 - INFO - 127.0.0.1 - - [05/May/2025 12:01:55] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-05-05 12:04:05,457 - INFO - 127.0.0.1 - - [05/May/2025 12:04:05] "GET / HTTP/1.1" 200 -
+2025-05-05 12:04:05,525 - INFO - 127.0.0.1 - - [05/May/2025 12:04:05] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:13:12,321 - INFO - 127.0.0.1 - - [05/May/2025 12:13:12] "GET / HTTP/1.1" 200 -
+2025-05-05 12:13:12,371 - INFO - 127.0.0.1 - - [05/May/2025 12:13:12] "GET /get_templates HTTP/1.1" 200 -
+2025-05-05 12:13:12,575 - INFO - 127.0.0.1 - - [05/May/2025 12:13:12] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:13:15,246 - ERROR - Error inesperado en /generate: cannot unpack non-iterable coroutine object
+2025-05-05 12:13:15,246 - INFO - 127.0.0.1 - - [05/May/2025 12:13:15] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-05-05 12:13:26,259 - INFO -  * Detected change in 'E:\\IA GENERADOR\\ia.py', reloading
+2025-05-05 12:13:26,259 - INFO -  * Detected change in 'E:\\IA GENERADOR\\ia.py', reloading
+2025-05-05 12:13:26,408 - INFO -  * Detected change in 'E:\\IA GENERADOR\\ia.py', reloading
+2025-05-05 12:13:26,806 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:13:28,343 - WARNING -  * Debugger is active!
+2025-05-05 12:13:28,355 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:13:29,159 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:13:29,159 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:13:29,347 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:13:29,347 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:13:29,633 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:13:31,139 - WARNING -  * Debugger is active!
+2025-05-05 12:13:31,145 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:13:32,062 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,063 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,063 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,211 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,211 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,211 - INFO -  * Detected change in 'E:\\IA GENERADOR\\utils.py', reloading
+2025-05-05 12:13:32,400 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:13:33,860 - WARNING -  * Debugger is active!
+2025-05-05 12:13:33,865 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:13:34,841 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:34,842 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:35,108 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:13:36,532 - WARNING -  * Debugger is active!
+2025-05-05 12:13:36,538 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:13:38,869 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:38,870 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,091 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,092 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,092 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,242 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,243 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,391 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,391 - INFO -  * Detected change in 'E:\\IA GENERADOR\\history_manager.py', reloading
+2025-05-05 12:13:39,903 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:13:41,319 - WARNING -  * Debugger is active!
+2025-05-05 12:13:41,324 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:13:42,700 - INFO - 127.0.0.1 - - [05/May/2025 12:13:42] "GET / HTTP/1.1" 200 -
+2025-05-05 12:13:42,766 - INFO - 127.0.0.1 - - [05/May/2025 12:13:42] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:13:46,658 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:13:46,672 - INFO - Texto generado y almacenado en caché para la clave: Hola:texto::{}:basico:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
+2025-05-05 12:13:46,738 - INFO - 127.0.0.1 - - [05/May/2025 12:13:46] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:17:15,894 - INFO -  * Detected change in 'C:\\Program Files\\Python311\\Lib\\platform.py', reloading
+2025-05-05 12:17:16,124 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\deprecated\\class_validators.py', reloading
+2025-05-05 12:17:16,127 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\_internal\\_decorators_v1.py', reloading
+2025-05-05 12:17:16,547 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:17:17,919 - WARNING -  * Debugger is active!
+2025-05-05 12:17:17,925 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:17:24,539 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\__init__.py', reloading
+2025-05-05 12:17:24,542 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\errors.py', reloading
+2025-05-05 12:17:24,546 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\main.py', reloading
+2025-05-05 12:17:24,559 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\networks.py', reloading
+2025-05-05 12:17:24,568 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\types.py', reloading
+2025-05-05 12:17:24,586 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\deprecated\\tools.py', reloading
+2025-05-05 12:17:24,588 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\_internal\\_model_construction.py', reloading
+2025-05-05 12:17:24,596 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\fields.py', reloading
+2025-05-05 12:17:24,606 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic_core\\__init__.py', reloading
+2025-05-05 12:17:24,614 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\aliases.py', reloading
+2025-05-05 12:17:24,620 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\_internal\\_internal_dataclass.py', reloading
+2025-05-05 12:17:24,626 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\_internal\\_repr.py', reloading
+2025-05-05 12:17:24,628 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\_migration.py', reloading
+2025-05-05 12:17:24,960 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:17:26,469 - WARNING -  * Debugger is active!
+2025-05-05 12:17:26,475 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:17:31,063 - INFO - 127.0.0.1 - - [05/May/2025 12:17:31] "GET / HTTP/1.1" 200 -
+2025-05-05 12:17:31,130 - INFO - 127.0.0.1 - - [05/May/2025 12:17:31] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:32:18,421 - INFO - 127.0.0.1 - - [05/May/2025 12:32:18] "GET / HTTP/1.1" 200 -
+2025-05-05 12:32:18,493 - INFO - 127.0.0.1 - - [05/May/2025 12:32:18] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:52:16,561 - INFO - {'event': 'context_reset', 'session_id': 'a0e49cc23ab6ff0fca1f60f7588f640e'}
+2025-05-05 12:52:16,561 - INFO - Historial y contexto de conversación limpiados
+2025-05-05 12:52:16,566 - INFO - 127.0.0.1 - - [05/May/2025 12:52:16] "POST /clear_history HTTP/1.1" 200 -
+2025-05-05 12:52:39,325 - ERROR - Error inesperado en /generate: cannot unpack non-iterable coroutine object
+2025-05-05 12:52:39,326 - INFO - 127.0.0.1 - - [05/May/2025 12:52:39] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-05-05 12:52:47,032 - INFO - 127.0.0.1 - - [05/May/2025 12:52:47] "GET / HTTP/1.1" 200 -
+2025-05-05 12:52:47,117 - INFO - 127.0.0.1 - - [05/May/2025 12:52:47] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:52:49,637 - ERROR - Error inesperado en /generate: cannot unpack non-iterable coroutine object
+2025-05-05 12:52:49,638 - INFO - 127.0.0.1 - - [05/May/2025 12:52:49] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
+2025-05-05 12:52:55,529 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\version.py', reloading
+2025-05-05 12:52:55,533 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\annotated_handlers.py', reloading
+2025-05-05 12:52:55,535 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\functional_serializers.py', reloading
+2025-05-05 12:52:55,542 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\functional_validators.py', reloading
+2025-05-05 12:52:55,557 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\json_schema.py', reloading
+2025-05-05 12:52:55,591 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\type_adapter.py', reloading
+2025-05-05 12:52:55,604 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\validate_call_decorator.py', reloading
+2025-05-05 12:52:55,605 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\warnings.py', reloading
+2025-05-05 12:52:55,619 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\deprecated\\config.py', reloading
+2025-05-05 12:52:55,620 - INFO -  * Detected change in 'C:\\Users\\Usuario\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydantic\\root_model.py', reloading
+2025-05-05 12:52:55,694 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:55,695 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:55,878 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:55,879 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:55,879 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,065 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,066 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,213 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,213 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,213 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 12:52:56,627 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 12:52:58,144 - WARNING -  * Debugger is active!
+2025-05-05 12:52:58,150 - INFO -  * Debugger PIN: 202-431-361
+2025-05-05 12:52:58,382 - INFO - 127.0.0.1 - - [05/May/2025 12:52:58] "GET / HTTP/1.1" 200 -
+2025-05-05 12:52:58,444 - INFO - 127.0.0.1 - - [05/May/2025 12:52:58] "GET /get_history HTTP/1.1" 200 -
+2025-05-05 12:53:02,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:53:02,031 - INFO - Texto generado y almacenado en caché para la clave: Hola:texto::{}:basico:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
+2025-05-05 12:53:02,037 - INFO - 127.0.0.1 - - [05/May/2025 12:53:02] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:53:08,885 - INFO - Contexto reiniciado para session_id: a0e49cc23ab6ff0fca1f60f7588f640e
+2025-05-05 12:53:08,885 - INFO - Historial y contexto de conversación limpiados
+2025-05-05 12:53:08,889 - INFO - 127.0.0.1 - - [05/May/2025 12:53:08] "POST /clear_history HTTP/1.1" 200 -
+2025-05-05 12:53:24,119 - INFO - Usando respuesta en caché para la clave: Hola:texto::{}:basico:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
+2025-05-05 12:53:24,127 - INFO - 127.0.0.1 - - [05/May/2025 12:53:24] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:53:35,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:53:35,670 - INFO - Texto generado y almacenado en caché para la clave: dime unos chistes:texto::{}:basico:2fc2782343fa43fb206765626b46769709e0dcc48e531a8ba977d8ed9af900ec
+2025-05-05 12:53:35,676 - INFO - 127.0.0.1 - - [05/May/2025 12:53:35] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:54:07,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:54:07,975 - INFO - Texto generado y almacenado en caché para la clave: generame un documento sobre la IA:docx::{}:basico:1239ccbab0076606ff9910475e0748b1752b1fcf27ad96e247ea7ac43ca6f2e3
+2025-05-05 12:54:08,350 - INFO - 127.0.0.1 - - [05/May/2025 12:54:08] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:54:14,382 - INFO - 127.0.0.1 - - [05/May/2025 12:54:14] "GET /download/3851a87c-360a-4bee-9f12-5cb1ef020fdb HTTP/1.1" 200 -
+2025-05-05 12:55:17,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:55:17,754 - INFO - Texto generado y almacenado en caché para la clave: generame un documento sobre la IA:docx::{}:profesional:dbb685ac5a16a36e8ab4efdcf3230f4f759c2be979e2c89803301a6192c7bb2e
+2025-05-05 12:55:18,409 - INFO - 127.0.0.1 - - [05/May/2025 12:55:18] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:55:33,821 - INFO - 127.0.0.1 - - [05/May/2025 12:55:33] "GET /download/e5bdebf8-f6a4-4b8e-a7b4-b72857fc092b HTTP/1.1" 200 -
+2025-05-05 12:56:31,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:56:31,123 - INFO - Texto generado y almacenado en caché para la clave: hazme un web pequeña:html::{}:profesional:f1e8cf1ff7dcce10409e8a049090619f6c43e660f5cc9a8826ca3819b0177ede
+2025-05-05 12:56:31,460 - INFO - 127.0.0.1 - - [05/May/2025 12:56:31] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:56:31,774 - INFO - 127.0.0.1 - - [05/May/2025 12:56:31] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-05-05 12:56:45,268 - INFO - 127.0.0.1 - - [05/May/2025 12:56:45] "GET /download/a714ea25-7b5e-484b-baee-36888c97ecf8 HTTP/1.1" 200 -
+2025-05-05 12:57:44,730 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 12:57:44,742 - INFO - Texto generado y almacenado en caché para la clave: generame un documento sobre la IA:pdf::{}:basico:222b557def2411a6a8b6d95415339556d95d60bea90fb8a1fadbf9538e0e00cb
+2025-05-05 12:57:45,470 - INFO - 127.0.0.1 - - [05/May/2025 12:57:45] "POST /generate HTTP/1.1" 200 -
+2025-05-05 12:57:45,477 - INFO - 127.0.0.1 - - [05/May/2025 12:57:45] "[33mGET /static/pdf.js/web/viewer.html?file=/download/66693e17-87a8-4a1f-91f5-cccd8afab22f HTTP/1.1[0m" 404 -
+2025-05-05 12:57:48,181 - INFO - 127.0.0.1 - - [05/May/2025 12:57:48] "GET /download/66693e17-87a8-4a1f-91f5-cccd8afab22f HTTP/1.1" 200 -
+2025-05-05 13:11:45,768 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 13:11:45,772 - INFO -  * Detected change in 'E:\\IA GENERADOR\\document_generator.py', reloading
+2025-05-05 13:11:46,343 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 13:11:47,840 - WARNING -  * Debugger is active!
+2025-05-05 13:11:47,846 - INFO -  * Debugger PIN: 202-431-361

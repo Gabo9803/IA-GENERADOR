@@ -1,0 +1,8 @@
+Flask==2.2.2
+gunicorn==20.1.0
+openai==0.27.0
+cachetools==5.2.0
+python-dotenv==0.21.0
+docx==0.2.5
+reportlab==3.6.4
+deep-translator==1.8.0
